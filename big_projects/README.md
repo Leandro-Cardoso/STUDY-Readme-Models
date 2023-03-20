@@ -4,31 +4,30 @@
 
 Resume.
 
-## License
-This project is under the [MIT license](https://github.com/Leandro-Cardoso/STUDY-Readme-Models/blob/master/LICENSE).
-
-## Status
+### Status
 🟡 **Under development** (alpha version) 🔨
 
-## Layouts
+### License
+This project is under the [MIT license](https://github.com/Leandro-Cardoso/STUDY-Readme-Models/blob/master/LICENSE).
+
+<div align="center">
+    <h2>Layouts</h2>
+</div>
 
 ### Mobile Layout
 
 ### Web Responsive Layout
 
-## Technologies
-* Back End:
-    * Python
-    * Json
-* Front End:
-    * JavaScript
-    * Django
-    * HTML
-    * CSS
-* Database:
-    * SQL
-* Server:
-    * Heroku
+<div align="center">
+    <h2>Technologies</h2>
+</div>
+
+| Back End | Front End | Database | Server |
+|---|---|---|---|
+| Python | JavaScript | SQL | Heroku |
+| Json | Django |
+|| HTML |
+|| CSS |
 
 ## Features
 > Finished features:
@@ -38,7 +37,9 @@ This project is under the [MIT license](https://github.com/Leandro-Cardoso/STUDY
 > Possible new features:
 * ⚫ Feature ⚙️
 
-## How to contribute?
+<div align="center">
+    <h2>How to contribute?</h2>
+</div>
 
 ### Requirements:
 * Python 3.7.9
@@ -71,7 +72,6 @@ Obs: I will read all contributions.
 python lists_organizer/__init__.py
 ```
 
----
 <div align="center">
     <h2>Author</h2>
     <a href="https://github.com/Leandro-Cardoso">
