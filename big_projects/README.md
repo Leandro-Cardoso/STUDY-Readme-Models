@@ -5,7 +5,7 @@
 Resume.
 
 ## License
-This project is under the [MIT license]().
+This project is under the [MIT license](https://github.com/Leandro-Cardoso/STUDY-Readme-Models/blob/master/LICENSE).
 
 ## Status
 🟡 **Under development** (alpha version) 🔨
@@ -31,7 +31,7 @@ This project is under the [MIT license]().
 * ⚫ Graphic interface ⚙️
 * ⚫ Executable file ⚙️
 
-## How to run?
+## How to contribute?
 
 ### Requirements:
 * Python 3.7.9
