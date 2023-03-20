@@ -1,6 +1,6 @@
 # Lists Organizer Script
 
-### [🔗 Project link]() | [💾 Project Download]() | [🎁 Donate]() | [🔑 MIT License](https://github.com/Leandro-Cardoso/STUDY-Readme-Models/blob/master/LICENSE)
+### [🔗 Project link](https://github.com/Leandro-Cardoso/STUDY-Readme-Models/tree/master/model_1#-How-to-run?) | [💾 Project Download](https://github.com/Leandro-Cardoso/STUDY-Readme-Models/tree/master/model_1#-How-to-run?) | [🎁 Donate](https://github.com/Leandro-Cardoso/STUDY-Readme-Models/tree/master/model_1#-How-to-run?) | [🔑 MIT License](https://github.com/Leandro-Cardoso/STUDY-Readme-Models/blob/master/LICENSE)
 
 🟡 **Under development** (alpha version) 🔨
 
@@ -42,9 +42,11 @@ Resume text...
 ### [🌎 Issues](https://github.com/Leandro-Cardoso/STUDY-Readme-Models/issues) | [🌎 Pull Requests](https://github.com/Leandro-Cardoso/STUDY-Readme-Models/pulls)
 
 1. `Fork` this project.
-2. Run this project. ([How to run?](#-How-to-run?))
+2. Run this project. ([How to run?](#📦-requirements))
 3. Code... 💻
-4. Make a `pull request` for this project.
+4. Make a `pull request` for this project. (Thank you ❕❕❕ 😉)
+
+**Ps:** I will read all contributions.
 
 <div align="center">
     <h2>How to run?</h2>
@@ -54,29 +56,27 @@ Resume text...
 * Python 3.7.9
 
 ### 📦 Setting:
-0. Open your terminal and open a folder to work.
-1. Clone the project:
+1. Open your terminal and open a folder to work.
+2. Clone the project:
 ```cmd
 git clone https://github.com/Leandro-Cardoso/SCRIPTS-Organization-Lists.git
 ```
-2. Open the cloned project folder.
-3. Create a Python Venv:
+3. Open the cloned project folder.
+4. Create a Python Venv:
 ```cmd
 python -m venv venv
 ```
-4. Activate the Venv:
+5. Activate the Venv:
 ```cmd
 venv\Scripts\activate.bat
 ```
-5. Install requirements:
+6. Install requirements:
 ```cmd
 pip install -r requirements.txt
 ```
-6. Code 💻 (Thank you ❕❕❕ 😉)
-
-Obs: I will read all contributions.
 
 ### 📦 Run:
+In your terminal:
 ```cmd
 python lists_organizer/__init__.py
 ```
