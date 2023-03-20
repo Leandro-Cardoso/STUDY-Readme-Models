@@ -21,7 +21,7 @@ Resume text...
 
 ### ⚙️ Technologies:
 | Back End | Front End | Database | Server |
-|---|---|---|---|
+| :---: | :---: | :---: | :---: |
 | Python | JavaScript | SQL | Heroku |
 | Json | Django |
 || HTML |
@@ -39,14 +39,21 @@ Resume text...
     <h2>How to contribute?</h2>
 </div>
 
+### [🌎 Issues](https://github.com/Leandro-Cardoso/STUDY-Readme-Models/issues) | [🌎 Pull Requests](https://github.com/Leandro-Cardoso/STUDY-Readme-Models/pulls)
+
+1. `Fork` this project.
+2. Run this project. ([How to run?](#-How-to-run?))
+3. Code... 💻
+4. Make a `pull request` for this project.
+
 <div align="center">
     <h2>How to run?</h2>
 </div>
 
-### 🌎 Requirements:
+### 📦 Requirements:
 * Python 3.7.9
 
-### 🌎 Setting:
+### 📦 Setting:
 0. Open your terminal and open a folder to work.
 1. Clone the project:
 ```cmd
@@ -69,7 +76,7 @@ pip install -r requirements.txt
 
 Obs: I will read all contributions.
 
-### 🌎 Run:
+### 📦 Run:
 ```cmd
 python lists_organizer/__init__.py
 ```
