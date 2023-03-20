@@ -10,4 +10,4 @@ This project was made with the intention of studying `README.md` models.
 🟡 **Under development** (alpha version) 🔨
 
 ## License
-This project is under the [MIT license]().
+This project is under the [MIT license](https://github.com/Leandro-Cardoso/STUDY-Readme-Models/blob/master/LICENSE).

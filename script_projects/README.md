@@ -10,33 +10,28 @@ This project is under the [MIT license](https://github.com/Leandro-Cardoso/STUDY
 ## Status
 🟡 **Under development** (alpha version) 🔨
 
-## Layouts
-
-### Mobile Layout
-
-### Web Responsive Layout
+## Layout
 
 ## Technologies
-* Back End:
-    * Python
-    * Json
-* Front End:
-    * JavaScript
-    * Django
-    * HTML
-    * CSS
-* Database:
-    * SQL
-* Server:
-    * Heroku
+* Python
+* Json
+
+## License
+This project is under the [MIT license]().
 
 ## Features
 > Finished features:
-1. 🟢 Feature ⚙️✔️
+1. 🟢 Convert `.txt` file to Python list ⚙️✔️
+2. 🟢 Organize Python list in ascending order and remove duplicate items ⚙️✔️
+3. 🟢 Save organized list in a new `.txt` file ⚙️✔️
+4. 🟢 Config file `.json` ⚙️✔️
 > Under development features:
-2. 🟡 Feature ⚙️🔨
+5. 🟡 Organize Python list in descending order ⚙️🔨
+6. 🟡 Convert "others files type" to Python list ⚙️🔨
+7. 🟡 Save organized list in "others files type" ⚙️🔨
 > Possible new features:
-* ⚫ Feature ⚙️
+* ⚫ Graphic interface ⚙️
+* ⚫ Executable file ⚙️
 
 ## How to contribute?
 
@@ -70,12 +65,3 @@ Obs: I will read all contributions.
 ```cmd
 python lists_organizer/__init__.py
 ```
-
----
-<div align="center">
-    <h2>Author</h2>
-    <a href="https://github.com/Leandro-Cardoso">
-        <img src="https://avatars.githubusercontent.com/u/41876952?v=4" alt="Profile Pic" width="150" style="border-radius: 50%"/>
-    </a>
-    <h3>Leandro Cardoso</h3>
-</div>
