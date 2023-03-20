@@ -76,7 +76,8 @@ pip install -r requirements.txt
 ```
 
 ### 📦 Run:
-In your terminal:
+1. Open your terminal and open the cloned project folder.
+2. Run this project:
 ```cmd
 python lists_organizer/__init__.py
 ```
