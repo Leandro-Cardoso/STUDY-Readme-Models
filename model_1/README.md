@@ -2,10 +2,10 @@
 
 ### [🔗 Project link]() | [💾 Project Download]() | [🎁 Donate]() | [🔑 MIT License](https://github.com/Leandro-Cardoso/STUDY-Readme-Models/blob/master/LICENSE)
 
-Resume.
-
-### 💬 Status
 🟡 **Under development** (alpha version) 🔨
+
+### 💬 Resume:
+Resume text...
 
 <div align="center">
     <h2>Layouts</h2>
@@ -37,6 +37,10 @@ Resume.
 
 <div align="center">
     <h2>How to contribute?</h2>
+</div>
+
+<div align="center">
+    <h2>How to run?</h2>
 </div>
 
 ### 🌎 Requirements:
