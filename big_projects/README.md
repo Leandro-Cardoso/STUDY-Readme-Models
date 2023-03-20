@@ -1,27 +1,25 @@
 # Lists Organizer Script
 
-### [Project link]()
+### [🔗 Project link]() | [💾 Project Download]() | [🎁 Donate]() | [🔑 MIT License](https://github.com/Leandro-Cardoso/STUDY-Readme-Models/blob/master/LICENSE)
 
 Resume.
 
-### Status
+### 💬 Status
 🟡 **Under development** (alpha version) 🔨
-
-### License
-This project is under the [MIT license](https://github.com/Leandro-Cardoso/STUDY-Readme-Models/blob/master/LICENSE).
 
 <div align="center">
     <h2>Layouts</h2>
 </div>
 
-### Mobile Layout
+### 📱 Mobile Layout
 
-### Web Responsive Layout
+### 💻 Web Responsive Layout
 
 <div align="center">
-    <h2>Technologies</h2>
+    <h2>About</h2>
 </div>
 
+### ⚙️ Technologies:
 | Back End | Front End | Database | Server |
 |---|---|---|---|
 | Python | JavaScript | SQL | Heroku |
@@ -29,7 +27,7 @@ This project is under the [MIT license](https://github.com/Leandro-Cardoso/STUDY
 || HTML |
 || CSS |
 
-## Features
+### ⚙️ Features:
 > Finished features:
 1. 🟢 Feature ⚙️✔️
 > Under development features:
@@ -41,10 +39,10 @@ This project is under the [MIT license](https://github.com/Leandro-Cardoso/STUDY
     <h2>How to contribute?</h2>
 </div>
 
-### Requirements:
+### 🌎 Requirements:
 * Python 3.7.9
 
-### Setting:
+### 🌎 Setting:
 0. Open your terminal and open a folder to work.
 1. Clone the project:
 ```cmd
@@ -67,7 +65,7 @@ pip install -r requirements.txt
 
 Obs: I will read all contributions.
 
-### Run:
+### 🌎 Run:
 ```cmd
 python lists_organizer/__init__.py
 ```
